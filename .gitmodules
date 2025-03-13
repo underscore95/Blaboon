@@ -1,0 +1,3 @@
+[submodule "Chimp"]
+	path = Chimp
+	url = https://github.com/underscore95/Chimp.git
